@@ -1,0 +1,33 @@
+.footer {
+  background-color: #1f2937;
+  color: #ffffff;
+  padding: 30px 20px;
+  text-align: center;
+}
+
+.footer-content {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.social-icons a {
+  margin: 0 10px;
+  font-size: 1.5rem;
+  text-decoration: none;
+  color: #ffffff;
+  transition: color 0.3s ease;
+}
+
+.social-icons a:hover {
+  color: #60a5fa;
+}
+
+.footer p {
+  margin: 10px 0;
+  font-size: 1rem;
+}
+
+.copyright {
+  font-size: 0.9rem;
+  opacity: 0.8;
+}
