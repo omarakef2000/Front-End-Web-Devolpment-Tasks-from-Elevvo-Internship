@@ -28,6 +28,32 @@ A personal blog homepage built with **React**. Features include:
 - Image assets and dummy content
 
 ---
+### `05-multi-page-dashboard`
+
+A responsive, multi-page admin dashboard built for a fictional freelance client using **React**, **React Router**, **Tailwind CSS**, and **Recharts**.
+
+#### 📄 Pages Included:
+- **Overview Page**: Summary cards (Total Projects, Earnings, Tasks Due), recent activity list, and simple charts.
+- **Projects Page**: List of projects with project name, status, and deadline — displayed in a responsive table or card layout.
+- **Profile Settings Page** *(optional)*: Basic user info form with editable fields (name, email, password placeholder).
+
+#### 🧰 Features:
+- Reusable sidebar and top header layout across all pages
+- Page routing without full reload using **React Router**
+- Charts for visual stats (e.g., monthly earnings, task type distribution)
+- Responsive design for desktop and mobile
+- Conditional rendering for clean component behavior
+- **Bonus**: Notification dropdown in the header showing 3 recent activities using mock data
+
+#### 🛠 Tools & Libraries:
+- React
+- React Router
+- Tailwind CSS
+- Recharts
+
+#### 📚 Concepts Covered:
+React | React Router | Multi-Page Layout | Reusable Components | Charts | Responsive Design | Conditional Rendering
+
 
 ## 🚀 Technologies Used
 - HTML5
